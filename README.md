@@ -1,3 +1,3 @@
 # Api-movieDB
-### คำสั่ง run app
-npm run dev
+In the project directory, you can run:
+## npm run dev
